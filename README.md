@@ -1,0 +1,2 @@
+# HackerRank-Problem-s-Solution
+Viral Advertising:-Hacker Land Enterprise is adopting a new viral advertising strategy. each day, floor(recipients/2) of the recipients like the advertisement and will share it with  friends on the following day. Assuming nobody receives the advertisement twice, determine how many people have liked the ad by the end of a given day, beginning with launch day as day 1.
